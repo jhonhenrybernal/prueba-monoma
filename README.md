@@ -1,6 +1,13 @@
 # Prueba candidatos Backend (PHP-Laravel)
 Realizado por  [Jhon Bernal](https://jhonhenrybernal.github.io/miportafolio/).
-Strunctura y pruebas endpoint  [postman](https://documenter.getpostman.com/view/4666248/2s93m4Xi3Y).
+
+## Pruebas Unitarias
+Estrunctura y pruebas endpoint  [postman](https://documenter.getpostman.com/view/4666248/2s93m4Xi3Y).
+
+Desde el proyecto ejecutar 
+```sh
+php artisan text
+```
 
 ## Installation
 
